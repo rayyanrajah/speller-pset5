@@ -1,6 +1,6 @@
 For this problem, I implemented a program that spell-checks a file using a hash table.
 
-This problem required the implementation of the following functions (all within dictionary.c);
+This problem required the implementation of the following functions (all within dictionary.c):
 
 - load
 - hash
